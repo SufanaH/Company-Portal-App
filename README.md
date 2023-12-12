@@ -41,6 +41,6 @@ Make sure you have the following installed:
 ### Clone and Install
 
 ```bash
-git clone https://github.com/your-username/company-portal-app.git
+git clone 
 cd company-portal-app
 npm install
